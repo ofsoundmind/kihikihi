@@ -1,0 +1,5 @@
+Selection	View	Channel	Begin Time (s)	End Time (s)	Low Freq (Hz)	High Freq (Hz)	Delta Time (s)	Delta Freq (Hz)	Avg Power Density (dB FS/Hz)	Annotation
+1	Spectrogram 1	1	0.056558196	6.183696105	9953.917	18654.378	6.1271	8700.461	-68.65	KIKmut
+2	Spectrogram 1	1	6.636161674	10.105064368	10322.581	18617.512	3.4689	8294.931	-67.02	KIKmut
+3	Spectrogram 1	1	10.859173649	11.028848237	10064.516	18138.249	0.1697	8073.733	-62.31	KIKmut
+4	Spectrogram 1	1	11.971484838	12.103453963	10248.848	18322.581	0.1320	8073.733	-61.00	KIKmut

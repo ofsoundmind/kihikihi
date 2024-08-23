@@ -1,0 +1,7 @@
+code	species
+AMPRTU	Amphisalta recognisable taxonomic unit
+AMPcin	Amphisalta cingulata
+AMPzel	Amphisalta zelandica
+KIKmut	Kikihia muta
+KIKochr	Kikihina ochrina
+KIKscu	Kikihia scutellaris
