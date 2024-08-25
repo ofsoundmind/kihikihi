@@ -1,1 +1,1 @@
-Cicadas chorus is an integral part of summer in Aotearoa/New Zealand. This project aims to train a machine learning model to identify NZ cicadas from acoustic recordings.
+Cicada chorus is an integral part of summer in Aotearoa/New Zealand. This project aims to train a machine learning model to identify NZ cicadas from acoustic recordings.
